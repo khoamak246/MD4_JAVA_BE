@@ -1,0 +1,1 @@
+DROP SCHEMA `session1_practice_createNewSchema` ;
